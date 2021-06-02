@@ -1,3 +1,4 @@
 # test_sync_1
 push 1
-push3
+push 2
+push 3
